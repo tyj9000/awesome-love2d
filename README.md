@@ -315,6 +315,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [NAniTe](https://github.com/MikuAuahDark/NPad93/blob/master/nanite.lua) - Timeline-based animation system that supports forward and backward update.
 * [tick](https://github.com/rxi/tick) - Lua module for delaying function calls.
 * [tween.lua](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method.
+* [Twine](https://github.com/tyj9000/Twine) - Lightweight event-based tweening library.
 
 ## UI
 *User Interface Libraries*
